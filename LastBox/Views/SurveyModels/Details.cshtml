@@ -1,0 +1,180 @@
+﻿@model LastBox.Models.SurveyModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SurveyModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Money)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Money)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Alcohol)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Alcohol)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Appearance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Appearance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Books)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Books)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Candles)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Candles)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Candy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Candy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clothes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clothes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Coffee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Coffee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fitness)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fitness)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Games)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Games)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movies)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movies)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Music)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Music)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sports)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sports)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Active)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Active)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Candle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Candle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Entertainment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Entertainment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.foodORdrink)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.foodORdrink)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Looks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Looks)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("View Recommendations", "")
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

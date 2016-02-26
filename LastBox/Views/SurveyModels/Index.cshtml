@@ -1,0 +1,148 @@
+﻿@model IEnumerable<LastBox.Models.SurveyModel>
+
+    @{
+    ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+        @Html.ActionLink("Go To Survey", "GoToSurvey")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Money)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Alcohol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Appearance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candles)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clothes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Coffee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fitness)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Games)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movies)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Music)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sports)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Entertainment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.foodORdrink)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Looks)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Money)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Alcohol)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Appearance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Books)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Candles)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Candy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Clothes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coffee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fitness)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Games)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Movies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Music)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sports)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Active)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Candle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Entertainment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.foodORdrink)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Looks)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+            </td>
+        </tr>
+        }
+
+    </table>

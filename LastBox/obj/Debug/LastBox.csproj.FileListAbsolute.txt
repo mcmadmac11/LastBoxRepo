@@ -1,0 +1,214 @@
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\csc.exe
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\vbc.exe
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\VBCSCompiler.exe
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\LastBox.dll.config
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\LastBox.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\LastBox.pdb
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Antlr3.Runtime.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\EntityFramework.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\EntityFramework.SqlServer.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Newtonsoft.Json.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Owin.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Helpers.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Mvc.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Optimization.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Razor.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.Deployment.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.Razor.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\WebGrease.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Helpers.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Mvc.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Optimization.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.Razor.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.Deployment.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\System.Web.WebPages.Razor.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Antlr3.Runtime.pdb
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Newtonsoft.Json.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\EntityFramework.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\EntityFramework.SqlServer.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\obj\Debug\LastBox.dll
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\obj\Debug\LastBox.pdb
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\obj\Debug\LastBox.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\obj\Debug\LastBox.Migrations.InitialMigration.resources
+c:\users\dan\documents\visual studio 2015\Projects\LastBox\LastBox\obj\Debug\LastBox.csproj.GenerateResource.Cache
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\csc.exe
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\vbc.exe
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dan\LastBox\LastBox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dan\LastBox\LastBox\bin\LastBox.dll.config
+C:\Users\Dan\LastBox\LastBox\bin\LastBox.dll
+C:\Users\Dan\LastBox\LastBox\bin\LastBox.pdb
+C:\Users\Dan\LastBox\LastBox\bin\Antlr3.Runtime.dll
+C:\Users\Dan\LastBox\LastBox\bin\EntityFramework.dll
+C:\Users\Dan\LastBox\LastBox\bin\EntityFramework.SqlServer.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dan\LastBox\LastBox\bin\Newtonsoft.Json.dll
+C:\Users\Dan\LastBox\LastBox\bin\Owin.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Helpers.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Mvc.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Optimization.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Razor.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.dll
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dan\LastBox\LastBox\bin\WebGrease.dll
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Helpers.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Mvc.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Optimization.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.Razor.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dan\LastBox\LastBox\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dan\LastBox\LastBox\bin\Antlr3.Runtime.pdb
+C:\Users\Dan\LastBox\LastBox\bin\Newtonsoft.Json.xml
+C:\Users\Dan\LastBox\LastBox\bin\EntityFramework.xml
+C:\Users\Dan\LastBox\LastBox\bin\EntityFramework.SqlServer.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dan\LastBox\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.csprojResolveAssemblyReference.cache
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.Migrations.InitialMigration.resources
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.csproj.GenerateResource.Cache
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.dll
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.pdb
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.Migrations.plusOne.resources
+C:\Users\Dan\LastBox\LastBox\obj\Debug\LastBox.Migrations.plusTwo.resources
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\csc.exe
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\vbc.exe
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dan\LastBox(Current)\LastBox\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dan\LastBox(Current)\LastBox\bin\LastBox.dll.config
+C:\Users\Dan\LastBox(Current)\LastBox\bin\LastBox.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\LastBox.pdb
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Antlr3.Runtime.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\EntityFramework.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\EntityFramework.SqlServer.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Newtonsoft.Json.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Owin.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Helpers.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Mvc.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Optimization.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Razor.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\WebGrease.dll
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Helpers.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Mvc.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Optimization.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.Razor.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Antlr3.Runtime.pdb
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Newtonsoft.Json.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\EntityFramework.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\EntityFramework.SqlServer.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.dll
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.pdb
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.Migrations.initial.resources
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.csproj.GenerateResource.Cache
