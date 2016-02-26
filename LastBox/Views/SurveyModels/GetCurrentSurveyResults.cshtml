@@ -5,9 +5,9 @@
     @{
     ViewBag.Title = "GetCurrentSurveyResults";
     }
-    <p>
-        @Html.ActionLink("Create New", "Create")
-    </p>
+   <h1>
+       Survey Results
+   </h1>
     <table class="table">
         <tr>
             <th>
@@ -17,7 +17,7 @@
                 Category
             </th>
             <th>
-               Beers
+               Description
             </th>
             <th>
                 Cost
@@ -29,16 +29,18 @@
             <td>
                 @ViewBag.BoxName
             </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.Category)
+            <td>
+                @ViewBag.BoxCategory
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Description)
+                @ViewBag.BoxDescription
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Cost)
-            </td>*@
-
+                @ViewBag.BoxCost
+            </td>
+            <td>
+                
+            </td>
         </tr>
         }
 

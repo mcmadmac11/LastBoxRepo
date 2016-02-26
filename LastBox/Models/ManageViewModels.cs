@@ -7,6 +7,9 @@ namespace LastBox.Models
 {
     public class IndexViewModel
     {
+        public string BoxName { get; set; }
+        public int BoxPrice { get; set; }
+        public List<BoxContents> contents { get; set; }
         public bool HasPassword { get; set; }
         public IList<UserLoginInfo> Logins { get; set; }
         public string PhoneNumber { get; set; }
