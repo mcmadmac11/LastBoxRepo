@@ -210,5 +210,8 @@ C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Dan\LastBox(Current)\LastBox\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.dll
 C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.pdb
-C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.Migrations.initial.resources
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.Migrations.reinit.resources
 C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.csproj.GenerateResource.Cache
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.Migrations.two.resources
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.Migrations.admin.resources
+C:\Users\Dan\LastBox(Current)\LastBox\obj\Debug\LastBox.csprojResolveAssemblyReference.cache

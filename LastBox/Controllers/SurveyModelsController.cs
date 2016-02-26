@@ -185,14 +185,15 @@ namespace LastBox.Controllers
                 ofBeer.Category = "alcohol";
                 ofBeer.Description = "This box contains various beers in it.";
                 ofBeer.Cost = 30;
-                //   Highlife.Name = "High Life";
-                //   Highlife.Name = "PBR";
-                //   Corona.Name = "Corona";
+                Highlife.Name = "High Life";
+                Highlife.Name = "PBR";
+                Corona.Name = "Corona";
                 ofBeer.Contents = new List<BoxContents>();
 
                 ofBeer.Contents.Add(Highlife);
                 ofBeer.Contents.Add(PBR);
                 ofBeer.Contents.Add(Corona);
+                box = ofBeer;
 
                 
                 
