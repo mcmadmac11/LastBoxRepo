@@ -1,0 +1,49 @@
+﻿
+    @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    @{
+    ViewBag.Title = "GetCurrentSurveyResults";
+    }
+   <h1>
+       Survey Results
+   </h1>
+    <table class="table">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+               Description
+            </th>
+            <th>
+                Cost
+            </th>
+            <th></th>
+        </tr>
+
+        <tr>
+            <td>
+                @ViewBag.BoxName
+            </td>
+            <td>
+                @ViewBag.BoxCategory
+            </td>
+            <td>
+                @ViewBag.BoxDescription
+            </td>
+            <td>
+                @ViewBag.BoxCost
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        }
+
+    </table>
+
+
